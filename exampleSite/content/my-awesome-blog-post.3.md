@@ -1,23 +1,61 @@
 +++
-author = "John Doe"
-categories = ["Hugo"]
-date = 2019-11-07T05:00:00Z
-description = "This is meta description"
-image = "/images/post/post-3.jpg"
-title = "My awesome blog post"
+author = "Akash Mahajan"
+categories = ["On Hiring"]
+date = 2019-12-06T03:54:00Z
+description = "Hiring is always a challenging problem, especially so in information security domain."
+image = "/images/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg"
+title = "Hiring for security teams"
 type = "post"
 
 +++
-Are you Developer and recently started your own business and Already made a website to ensure online presence and wants to reach more people. but you are not getting as much as response from your targeted customer or you are unable to reach them. SEO(Search engine optimization)is the cheapest way to reach your customer or client. After 2000 the Internet is more easy access to common people and most of the netizens to find out information search on google/yahoo/bing like a search engine. So if your site ranks at the top of the SERP for your target keywords then sure you will get more valuable traffic to your site and it will help you a lot to grow your business.
+# **Hiring for security teams**
 
-Above Paragraph, you see SERP or Keywords that are common SEO Term so Before starting learning SEO let's learn the term used by the SEO expert. It will smoothen your learning journey. Or if you are wishing to hire an SEO guy it will help you his task he/she doing and understand he/she going on the right path. So not making delay let dive…
+I run an application security consulting company. Majority of our work is about testing applications on the web and mobile. A big challenge of hiring for app security is the fact that they need to be aware of network layer, transport layer and the applications.
 
-**Algorithm:** “Algorithm is a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.” It is its definition. In SEO we basically mean A very sophisticated and complex program used by the search engine to find out data and indexing it, And when a user gives a data query this program also decides the best result to place in the SERP in order. All search engines use multiple algorithms combination on their data collection and result giving process in different stages.
+The world of applications is constantly changing and evolving. We don’t know how do we evaluate and constantly up-skill.
 
-**Algorithm Change:** All the search engine service providers always try to give the best results to their users. So they always working on updating, refreshing or making and implementing new algorithms. The search engine service provider never revealed the exact date of rolling out any updates or new algorithms to make an effective date. Normally they give a boundary of time like this week or this month, we are going to rolling out a major update or applying new this algorithm. They give this new algorithm a name and they always call it by the given name. Like, google spider, Google panda, etc. Most of the time After one to two week we can see and understand the update or change impact but sometimes it also happens quicker also.
+## **An ideal candidate**
 
-* Algorithm Update: Search Engines regularly making minor changes in their system they normally don’t give an official announcement. But SEO related blogs and journals give the news what the changes made. So Keep update regular visit this industry-related community is important. And when the Major update come You must observe your ranking behavior and if you find you've got the penalty then quickly take necessary step undereating the guidelines given by search engine company.
+They need to have an intersection of bunch of skills.
 
-* Algorithm Refresh: Search engine operator after a regular interval re-run the existing algorithm to find out the new spammer.
+1. Great at being able to understand variety of applications. Apply their knowledge of web and related protocols to get a sense of the business logic etc.
+2. Great at being able to articulate in words, the issues found and why should that be something that a developer care about
+3. Someone who can absorb pressures of tight deadlines, lack of evident success in certain projects, be able to perform even when there is a lack of complete information
 
-* New Algorithm: Improving search quality google and other search engines regularly bringing new algorithms. All new algorithm has its special purpose to serve in the total search engine working process.
+### Is it even possible to get someone with all of that above?
+
+Not really but for most people if they have strength in even one of the areas, others can be honed. The crucial aspect of being able to train people is objective and subjective evaluation of an individual’s grasp of the concepts (fundamental knowledge), applied knowledge and capabilities.
+
+Their real skill is how good are they in practising their capabilities and how quickly can they re-align their capabilities for successful execution.
+
+Imagine if we had the ability to evaluate at the time of hiring and if someone needed a bit more time and support, if we could share a personalised learning path. That would be a game changer for most of us.
+
+At this point, I don’t have any solutions to offer but would like to share what we do at Appsecco is a combination of the following
+
+1. Regular hackathons for people to practice their craft and master skills
+2. Discussions around productivity, approaches to projects (time boxing, pomodoro etc.)
+3. Emotional well being and mental health. Everyone is encouraged to raise with their leads if they are going through a tough time (for professional or personal reasons) or if their mind is just not into it.
+
+## Our guiding principles for hiring
+
+### Everyone is capable
+
+If they don’t have the knowledge or the ability to do something specific they can be trained – as long as they are willing to do the work
+
+### Initiative trumps everything else
+
+Initiative trumps almost every other personality trait. Individuals who are willing to take a risk, go after learning in-spite of the inherent fear of failure, completely out of their comfort zone are the ones who create tools used by others, write books and articles referenced by others. 
+
+In my experience companies can’t really inculcate initiative. It is one of those latent abilities that can be honed if they exist.
+
+### Be kind with your self
+
+Be nice and kind with your self. Because on the journey to accelerate learning is bound to be full of seemingly insurmountable obstacles and things are highly improbable. The net effect is that we will see a lot of failure. Failing while trying shouldn’t be a reason to be hard on yourself. In short we prefer people who are willing to try but will be chill if they don’t succeed in their first/nth attempt.
+
+### Be open about trying out multi-function roles
+
+All testers should be open to writing code. All coders should be open to testing. Everyone including non-technical staff should be open to documenting their way of working and then figure out how to automate majority of their job. Once they do that, they can move to better more fun and challenging problems.
+
+What do you think about hiring for security teams? Do you agree or there is a magic sauce you are willing to share?
+
+_Image - Photo by_ [_Clem Onojeghuo_](https://unsplash.com/@clemono2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/for-hire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
