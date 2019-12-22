@@ -1,8 +1,9 @@
 +++
-title = "John Doe"
-image = "/images/author/john-doe.jpg"
-description = "Front end developer"
+description = "Co-Founder Appsecco"
+image = "/images/Akash-Mahajan-High-Res-Profile-Picture.jpg"
+title = "Akash Mahajan"
 
 +++
+Akash has been an \[published author of security related books\](https://www.amazon.com/Akash-Mahajan/e/B078RNWZXR) co-founded \[null0x00 - India's largest open security community\](https://null.co.in) and was involved with OWASP Bangalore for over half a decade. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nowadays loves to advocate about Cloud Native Security, train at BlackHat USA and run his boutique application security focussed company \[Appsecco\](https://appsecco.com).
