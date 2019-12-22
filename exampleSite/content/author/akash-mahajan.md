@@ -1,6 +1,6 @@
 +++
 description = "Co-Founder Appsecco"
-image = "/images/Akash-Mahajan-High-Res-Profile-Picture.jpg"
+image = "/images/Akash-Mahajan-Low-Res-Profile-Picture.jpg"
 title = "Akash Mahajan"
 
 +++
