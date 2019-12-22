@@ -22,7 +22,7 @@ copyright = "&copy; 2019 [Security Post Team] All Rights Reserved"
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
 home = "Home"
-logo = "images/logo.svg"
+logo = "images/security-post-logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
