@@ -5,6 +5,14 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Security Post"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -51,7 +59,7 @@ enable = true
 icon = "ti-twitter"
 link = "https://mobile.twitter.com/makash"
 [[params.social]]
-icon = "ti-twitter"
+icon = "ti-twitter-alt"
 link = "https://mobile.twitter.com/amolnaik4"
 [[params.social]]
 icon = "ti-twitter"
