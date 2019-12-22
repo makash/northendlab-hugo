@@ -26,7 +26,7 @@ logo = "images/security-post-logo.png"
 [params.banner]
 bgImage = ""
 image = "images/blog-image.jpg"
-title = "We post about security about once a month. Covering difficult topics with our individual voices."
+title = "We post about challenging security related topics about once a month."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
