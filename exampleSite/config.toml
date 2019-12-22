@@ -24,9 +24,9 @@ googleAnalitycsID = "Your ID"
 home = "Home"
 logo = "images/security-post-logo.png"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
-title = "We post about Security. About once a month. Deep dive into some of the thornier problems around the management aspects of security."
+bgImage = ""
+image = "images/blog-image.jpg"
+title = "We post about security about once a month. Covering difficult topics with our individual voices."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
