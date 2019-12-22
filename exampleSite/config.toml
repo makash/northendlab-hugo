@@ -9,18 +9,10 @@ title = "Security Post"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
