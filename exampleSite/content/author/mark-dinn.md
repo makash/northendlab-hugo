@@ -1,8 +1,9 @@
 +++
-title = "Mark Dinn"
-image = "/images/author/mark-dinn.jpg"
-description = "This is meta description"
+description = "Heading Security at Go-Jek"
+image = "/images/Amol-Naik1.jpg"
+title = "Amol Naik"
 
 +++
+Amol is Head of Information Security at Gojek with 16+ years of experience. He has led multiple teams in both the offensive and defensive side of security. Apart from helping and building a security program for a Unicorn Startup, he finds his interests in Security Research, Bug Bounties, Vulnerability Research and Exploit Development. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+He is also an author of a playground focused on learning the exploitation of client-side web vulnerabilities - Bodhi. He currently protects GoJek’s vast Infrastructure against Security misconfigurations and bugs. He is not only an active member in Infosec Community, especially Null Community and Garage4Hackers, but also has spoken in multiple conferences like NullCon, c0c0n
