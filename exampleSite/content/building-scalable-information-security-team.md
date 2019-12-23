@@ -15,7 +15,7 @@ In a startup environment, Infosec team need to cater to all the things related t
 
 On a brief view, I divide Information Security team’s responsibilities as follows:
 
-![](/images/post2.png)
+![](/images/post3.png)
 
 ### Audit
 
