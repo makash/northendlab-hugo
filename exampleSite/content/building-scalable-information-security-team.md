@@ -9,15 +9,13 @@ title = "Building Scalable Product Security Team"
 type = "post"
 
 +++
-# Building Scalable Product Security Team
-
-n a startup environment, Infosec team need to cater to all the things related to information security. This includes, but not limited to Product security, Data Security, Compliance, Incident response, etc. It is very important to plan for a diverse team who can comfortably serve to all such queries. This post is trying to shed light on Infosec responsibilities, technical skill sets & personal qualities needed and how you can stand out of the crowd.
+In a startup environment, Infosec team need to cater to all the things related to information security. This includes, but not limited to Product security, Data Security, Compliance, Incident response, etc. It is very important to plan for a diverse team who can comfortably serve to all such queries. This post is trying to shed light on Infosec responsibilities, technical skill sets & personal qualities needed and how you can stand out of the crowd.
 
 ## InfoSec Responsibilities
 
 On a brief view, I divide Information Security team’s responsibilities as follows:
 
-![](/images/post.jpg)
+![](/images/post.jpg "InfoSec Responsibilities")
 
 ### Audit
 
