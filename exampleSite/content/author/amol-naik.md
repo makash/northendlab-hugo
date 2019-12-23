@@ -1,6 +1,6 @@
 +++
 description = "Heading Security at Go-Jek"
-image = "/images/Amol-Naik1.jpg"
+image = "/images/profile.jpg"
 title = "Amol Naik"
 
 +++
