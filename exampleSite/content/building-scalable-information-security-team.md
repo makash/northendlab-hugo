@@ -15,8 +15,6 @@ In a startup environment, Infosec team need to cater to all the things related t
 
 On a brief view, I divide Information Security team’s responsibilities as follows:
 
-![](/images/post.jpg "InfoSec Responsibilities")
-
 ### Audit
 
 The major role for infosec team is to audit. This team audit Web applications, Mobile Apps, APIs, Infrastructure, etc to check for security loopholes. They also review the product designs at an early stage of software development to uncover security misconfiguration. Data audit is another important thing as companies collect sensitive data of customers, drivers, merchants, etc and need to secure in terms of unauthorised access. Risk will be calculated for each loophole considering impact & likelihood of the flaw. Risk matrix helps team to identify the severity of the bug and help to prioritize the patching.
