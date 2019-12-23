@@ -4,7 +4,7 @@ categories = []
 date = 2019-12-22T18:30:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/ai_hiring_algorithm.png"
 title = "Hiring for Security Teams"
 type = "post"
 
