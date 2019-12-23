@@ -1,5 +1,6 @@
 +++
 description = "Heading Security at Go-Jek"
+draft = true
 image = "/images/profile.jpg"
 title = "Amol Naik"
 
