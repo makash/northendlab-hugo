@@ -20,7 +20,7 @@ Curiosity has been the fabric of all that we do. But it is important to move fro
 
 As applicants in Information Security, we will mostly end up reaching out to either one of Offensive Security Consulting, Software Delivery or Product/Manufacturing industry. The emphasis is different in all these cases.
 
-Consulting companies require an out of the box thinking, efficient attacks & when working on scaled up infra structured execution. Software delivery may prefer understanding of various tech stacks and fixes respectively. While Product companies today want better automation and speed over manual workouts. When defending the infra though your experience (of dealing with things breaking apart) may count a little more than just knowledge of the security products.
+Consulting companies require an out of the box thinking, efficient attacks & when working on scaled up infra, structured execution. Software delivery may prefer understanding of various tech stacks and fixes respectively. While Product companies today want better automation and speed over manual workouts. When defending the infra though your experience (of dealing with things breaking apart) may count a little more than just knowledge of the security products.
 
 ### **Interview Experiences**
 
