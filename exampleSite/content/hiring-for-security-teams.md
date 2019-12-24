@@ -1,6 +1,6 @@
 +++
 author = "Neelu Tripathy"
-categories = []
+categories = ["On Hiring"]
 date = 2019-12-22T18:30:00Z
 description = ""
 image = "/images/ai_hiring_algorithm.png"
