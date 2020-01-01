@@ -8,11 +8,11 @@ title = "Security Post"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
