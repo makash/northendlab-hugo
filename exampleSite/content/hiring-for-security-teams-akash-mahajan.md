@@ -8,8 +8,6 @@ title = "Hiring for security teams"
 type = "post"
 
 +++
-# **Hiring for security teams**
-
 I run an application security consulting company. Majority of our work is about testing applications on the web and mobile. A big challenge of hiring for app security is the fact that they need to be aware of network layer, transport layer and the applications.
 
 The world of applications is constantly changing and evolving. We don’t know how do we evaluate and constantly up-skill.
@@ -44,7 +42,7 @@ If they don’t have the knowledge or the ability to do something specific they 
 
 ### Initiative trumps everything else
 
-Initiative trumps almost every other personality trait. Individuals who are willing to take a risk, go after learning in-spite of the inherent fear of failure, completely out of their comfort zone are the ones who create tools used by others, write books and articles referenced by others. 
+Initiative trumps almost every other personality trait. Individuals who are willing to take a risk, go after learning in-spite of the inherent fear of failure, completely out of their comfort zone are the ones who create tools used by others, write books and articles referenced by others.
 
 In my experience companies can’t really inculcate initiative. It is one of those latent abilities that can be honed if they exist.
 
