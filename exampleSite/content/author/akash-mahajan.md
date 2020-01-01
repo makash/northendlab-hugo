@@ -1,5 +1,5 @@
 +++
-description = "Co-Founder Appsecco"
+description = "Akash Mahajan | Co-Founder Appsecco | @makash"
 image = "/images/Akash-Mahajan-Low-Res-Profile-Picture.jpg"
 title = "Akash Mahajan"
 
