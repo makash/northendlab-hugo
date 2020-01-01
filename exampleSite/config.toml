@@ -16,10 +16,10 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Security Post"
 contactFormAction = "#"
-copyright = "&copy; 2019 [Security Post Team] All Rights Reserved"
-description = "This is meta description"
+copyright = "&copy; 2020 [Security Post Team] All Rights Reserved"
+description = "We are security post. "
 googleAnalitycsID = "Your ID"
 home = "Home"
 logo = "images/security-post-logo.png"
