@@ -5,7 +5,6 @@ description: this is meta description
 image: images/contact.svg
 
 ---
-We are on LinkedIn and Twitter.
+## Feedback/Suggestion/Just saying hi?
 
-* [Akash Mahajan LinkedIn](https://www.linkedin.com/in/akashm/ "LinkedIn profile of Akash Mahajan")
-* [Akash Mahajan Twitter](https://mobile.twitter.com/makash "Twitter account of Akash Mahajan")
+Fill the form and we will get in touch. 
