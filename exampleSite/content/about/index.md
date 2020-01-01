@@ -1,5 +1,11 @@
 +++
 title = "About Security Post"
+[menu.footer]
+name = "About "
+weight = 1
+[menu.main]
+name = "About"
+weight = 1
 
 +++
 Security Post is a blog about topics on information security management. Three experienced security professionals [Neelu](https://securitypost.in/author/neelu-tripathi/ "About Neelu"), [Amol](https://securitypost.in/author/amol-naik/ "About Amol") and [Akash](https://securitypost.in/author/akash-mahajan/ "About Akash") got together to document and share their opinions on some of the more daunting aspects of information security management.
