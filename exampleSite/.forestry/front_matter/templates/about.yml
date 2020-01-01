@@ -16,3 +16,14 @@ fields:
     schema:
       format: markdown
   label: About Us
+- name: published_date
+  type: datetime
+  label: published date
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
