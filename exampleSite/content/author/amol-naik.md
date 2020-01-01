@@ -2,6 +2,9 @@
 description = "Heading Information Security at Gojek"
 image = "/images/profile.jpg"
 title = "AMol NAik"
+[menu.footer]
+name = "About Amol"
+weight = 3
 
 +++
 Amol is Head of Information Security at Gojek with 16+ years of experience. He has led multiple teams in both the offensive and defensive side of security. Apart from helping and building a security program for a Unicorn Startup, he finds his interests in Security Research, Bug Bounties, Vulnerability Research and Exploit Development. 
