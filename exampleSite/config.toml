@@ -25,7 +25,7 @@ home = "Home"
 logo = "images/security-post-logo.png"
 [params.banner]
 bgImage = ""
-image = "images/blog-image.jpg"
+image = "images/security-post-trio.jpg"
 title = "Posting about challenging topics in security. Once a month. "
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
