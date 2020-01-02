@@ -10,6 +10,7 @@ fields:
   label: date
   config:
     date_format: DD/MM/YYYY
+    required: true
 - type: file
   name: image
   label: image
