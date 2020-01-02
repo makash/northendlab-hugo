@@ -6,9 +6,17 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Security Post - A blog by Neelu, Amol and Akash"
 [[menu.footer]]
+name = "RSS"
+url = "https://securitypost.in/index.xml"
+weight = 6
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.main]]
+name = "RSS"
+url = "https://securitypost.in/index.xml"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
