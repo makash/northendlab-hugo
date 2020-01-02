@@ -20,6 +20,6 @@ fields:
     date_format: DD/MM/YYYY
     time_format: 
     display_utc: false
-  hidden: true
+  hidden: false
 pages:
 - exampleSite/content/author/neelu-tripathi.md
