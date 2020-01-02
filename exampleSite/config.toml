@@ -6,9 +6,17 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Security Post - A blog by Neelu, Amol and Akash"
 [[menu.footer]]
+name = "RSS"
+url = "https://securitypost.in/index.xml"
+weight = 6
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.main]]
+name = "RSS"
+url = "https://securitypost.in/index.xml"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -26,7 +34,7 @@ logo = "images/security-post-logo.png"
 [params.banner]
 bgImage = ""
 image = "images/security-post-trio.jpg"
-title = "Painful topics around management aspects of information security. Once a month. Three smart voices."
+title = "We blog about not so simple aspects of information security. Once a month. Three smart voices with over decades of experience. "
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
