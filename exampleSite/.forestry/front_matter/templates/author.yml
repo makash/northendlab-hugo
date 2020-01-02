@@ -11,5 +11,15 @@ fields:
 - type: file
   name: image
   label: image
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+  hidden: true
 pages:
 - exampleSite/content/author/neelu-tripathi.md
