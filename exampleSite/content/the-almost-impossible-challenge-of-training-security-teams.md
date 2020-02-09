@@ -3,7 +3,6 @@ author = "Akash Mahajan"
 categories = ["On Training"]
 date = 2020-02-09T18:30:00Z
 description = ""
-draft = true
 image = "/images/man-in-black-reebok-shoes-about-to-carry-barbell-949129.jpg"
 title = "The almost impossible challenge of training security teams"
 type = "post"
