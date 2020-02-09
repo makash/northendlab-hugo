@@ -11,5 +11,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- exampleSite/content/author/neelu-tripathi.md
