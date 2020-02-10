@@ -3,7 +3,7 @@ author = "AMol NAik"
 categories = ["On Training"]
 date = 2020-02-09T18:30:00Z
 description = "Thoughts on learning plans for security teams"
-image = "/images/Screenshot 2020-02-10 at 10.33.20 AM.png"
+image = ""
 title = "Learning for Security Teams"
 type = "post"
 
@@ -22,7 +22,7 @@ As per the [learning standards](https://sharpheels.com/2016/06/3-es-for-career-d
 * Exposure
 * Experience
 
-![](/images/Screenshot 2020-02-10 at 10.33.20 AM.png)
+![](/images/Screenshot 2020-02-10 at 10.33.20 AM.png "Learning Standard")
 
 # Education (Training)
 
