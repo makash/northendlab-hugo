@@ -22,21 +22,21 @@ As per the [learning standards](https://sharpheels.com/2016/06/3-es-for-career-d
 * Exposure
 * Experience
 
-# Education (Training)
+## Education (Training)
 
 Training provides structural learning about a subject. This can be a classroom training, online, video based, blogs, twitter, etc.
 
 Understand this as an online course like AWS security or OSCP. These courses sets expectations and have a structure from basic to advanced (depends on the course objective). At the end of the course, you will have a fair idea about the topic of the training and build a base for that topic. This contributes 10% of overall learning.
 
-# Exposure
+## Exposure
 
 This involves exposing yourself to the new horizons in Security domains & other relevant areas. For ex: attending security conferences will expose you to many new technical domains which are different than your daily work. Similarly attending presentation skills talks will give you room to learn about soft skills. This contributes 20% of overall learning.
 
-# Experience
+## Experience
 
 By far, this is the main contributor in learning with 70% stake. Experience comes from executing hands-on tasks, learning from others, failing & learning from mistakes. This applicable to technical as well as other skills like leadership, people management, presentation skills, etc.
 
-# Learning in Security
+## Learning in Security
 
 As we set some bases for the learning theory, how is this applicable to security teams?
 
@@ -76,7 +76,7 @@ Learning differs as per the job you intended to do. For a pentester, it is impor
 
 On the other hand, when you are a product security engineer, you need to learn how to detect this attack before production release, be it in code or during testing. You also need to work on mitigations which is enough to restrict this attack. Next comes the detection with application logs when someone finds & exploits it. So your learning plan will be focused more on these points.
 
-# So what do you think?
+## So what do you think?
 
 There are so many things to learn within a lifespan. Plan your career goal, have a daily routine & learn what is needed.
 
