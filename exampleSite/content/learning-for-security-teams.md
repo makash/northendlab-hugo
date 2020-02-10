@@ -14,7 +14,7 @@ My thoughts on this topic are based on the following quote:
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn
 >
-> Benjamin Franklin
+> * Benjamin Franklin
 
 As per the [learning standards](https://sharpheels.com/2016/06/3-es-for-career-development/ "Learning"), following 3E’s (10-20-70) plays an important role in career development:
 
