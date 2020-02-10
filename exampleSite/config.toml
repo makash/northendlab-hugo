@@ -48,6 +48,8 @@ link = "https://gethugothemes.com/shop/"
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/main.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
