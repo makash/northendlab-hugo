@@ -5,6 +5,6 @@ description: Contact the people behind Security Post.
 image: images/security-post-trio.jpg
 
 ---
-### Feedback/Suggestion/Just saying hi?
+### Feedback/Suggestion/Just saying hi
 
 Fill the form and we will get in touch.

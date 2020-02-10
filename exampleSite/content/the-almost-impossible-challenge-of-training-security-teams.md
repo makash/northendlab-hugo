@@ -8,6 +8,7 @@ title = "The almost impossible challenge of training security teams"
 type = "post"
 
 +++
+
 Training people is a challenging problem. There are no two ways about it. It is especially so in the world of information security because of the constantly changing nature of threats, landscape and what needs protecting. As more and more information systems get meshed in the very fabric of society the challenge keeps getting tougher. For example, there are different sector specific legal compliance for industry sectors of Finance (Sarbanes Oxley), Health Care, Payment Card Industry.
 
 Just to give you a sense of why training is a complicated endeavour for a security testing team in my company, have a look at what a typical security analyst ends up doing as part of their job.
@@ -48,7 +49,7 @@ Assuming that we managed to hire the people based on these attributes. Now comes
 
 ![Four ways to train and guide security analysts](/images/four-buckets.png "Four ways to train and guide security analysts")
 
-## So why exactly is training an almost impossible challenge?
+## So why exactly is training an almost impossible challenge
 
 Most people who have a testing background can attest to the fact that ensuring test coverage is one of the most difficult aspects of functional testing. On top of that when it comes to application security testing ensuring discovery, proper identification and if possible exploitation of weaknesses should be done. Once it has been established that there is indeed a security weakness it needs to be mapped to the OWASP Top 10 application risk framework. This sets the agenda for the security analyst and the developer of the application to be able to have a discussion based on common language and terms.
 
@@ -63,7 +64,7 @@ Most people who have a testing background can attest to the fact that ensuring t
 
 In the cycle of finding bugs, we can zoom in to get a better sense of each step
 
-![](/images/finding-bug-cycle.png)
+![Simple cycle followed for finding bugs](/images/finding-bug-cycle.png)
 
 To add to this there are scores of server side back-end frameworks, tens of databases, scores of front-end frameworks and new 3rd party services keep cropping up. Using these modular components developers codify business logic which again needs to be looked at by the analyst. This logic could be using variety of access control mechanisms (most popular being Role Based Access Control) which can be complicated to understand beyond a number of roles and the resources those roles have access to.
 
@@ -89,22 +90,22 @@ Many process and training plan frameworks borrow the belt nomenclature to indica
 
 ### Resources that can be used right now
 
-For creating baselines OWASP Application Security Verification Standards (Web and Mobile) and the Cybok Knowledge Areas is good enough to cover almost all aspects of security testing areas. 
+For creating baselines OWASP Application Security Verification Standards (Web and Mobile) and the Cybok Knowledge Areas is good enough to cover almost all aspects of security testing areas.
 
-1. [OWASP ASVS 4.x](https://owasp.org/www-project-application-security-verification-standard/ "OWASP Application Security Verification Standard") 
+1. [OWASP ASVS 4.x](https://owasp.org/www-project-application-security-verification-standard/ "OWASP Application Security Verification Standard")
 2. [OWASP Mobile ASVS ](https://mobile-security.gitbook.io/masvs/ "OWASP Mobile Application Security Verification Standard")
 3. [CyBOK Knowledgebase](https://www.cybok.org/knowledgebase/ "The Cyber Security Body Of Knowledge")
 
 The security testing guides by OWASP, the Web Application Hackers Handbook are all great for creating a list of capabilities that trainee analysts can practice to become skilled in the techniques and tools for doing such security testing.
 
-1. [OWASP Security Testing Guide]()
+1. [OWASP Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 2. [Web Application Hacker's Handbook Testing Checklist](https://gist.github.com/jhaddix/6b777fb004768b388fefadf9175982ab "Web Application Hacker's Handbook Testing Checklist")
 
-### Future Roadmap 
+### Future Roadmap
 
-Nobody can predict the future. This is one area where a lot of unknown unknowns cause training and continuous learning to derail. New technologies, newer applications of known technologies, uptake in usage of certain developer tools and frameworks all of this can mean that experienced security testers need to keep up with the times. This may not require learning more security but practising methods around learning how to learn and more. 
+Nobody can predict the future. This is one area where a lot of unknown unknowns cause training and continuous learning to derail. New technologies, newer applications of known technologies, uptake in usage of certain developer tools and frameworks all of this can mean that experienced security testers need to keep up with the times. This may not require learning more security but practising methods around learning how to learn and more.
 
-#### Some more resources 
+#### Some more resources
 
 * [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn "Coursera Course - Learning How to Learn") - Great course on learning the techniques to be able to learn and grasp faster
-* [Accelerating your security learning](https://github.com/makash/accelerating-your-security-learning-in-2017-null-Bangalore-Jan2017 "Accelerating Your Security Learning") - A bit dated but a methodology for keeping up new things to learn and making a system for learning about security. This one is best done in a group
+* [Accelerating your security learning](https://github.com/makash/accelerating-your-security-learning-in-2017-null-Bangalore-Jan2017 "Accelerating Your Security Learning") - A bit dated but a methodology for keeping up new things to learn and making a system for learning about security. This one is best done in a group.
