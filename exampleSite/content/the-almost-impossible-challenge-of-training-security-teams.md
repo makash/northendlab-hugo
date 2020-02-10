@@ -1,6 +1,6 @@
 +++
 author = "Akash Mahajan"
-categories = ["On Training", "On Hiring"]
+categories = ["On Training"]
 date = 2020-02-09T18:30:00Z
 description = ""
 image = "/images/man-in-black-reebok-shoes-about-to-carry-barbell-949129.jpg"
