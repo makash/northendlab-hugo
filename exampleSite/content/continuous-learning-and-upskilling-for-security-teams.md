@@ -3,7 +3,6 @@ author = "Neelu Tripathy"
 categories = ["On Training"]
 date = 2020-02-09T18:30:00Z
 description = ""
-draft = true
 image = "/images/upskilling.jpg"
 title = "Continuous Learning and Upskilling for Security Teams"
 type = "post"
@@ -37,7 +36,7 @@ What can your team learn if into defensive security? While there are plethora of
 
 While we fancy very many certifications, in my opinion, it’s best do those that enhance your contribution to the Organization’s business and/or pertains to your domain of choice. What you want but don’t necessarily need, will be lost and gone. If you can’t apply what you learnt, it is a waste. Also about adding it to your resume, companies will look for what they need not what you have.
 
-Certifications are just one of the many ways of upskilling. You can go for books, tutorials, videos, bug hunting to understand and explore various tech stacks, or create vulnerable systems(a good way to learn), explore the paradigms above and look for the right opportunity to invest in.
+Certifications are just one of the many ways of upskilling. You can go for books, tutorials, videos, bug hunting to understand and explore various tech stacks, or create vulnerable systems(a good way to learn), explore the paradigms above and look for the right opportunity to invest in for practical learning.
 
 **Constant Upskilling**
 
