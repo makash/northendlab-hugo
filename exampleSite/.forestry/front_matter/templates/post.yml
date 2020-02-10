@@ -29,6 +29,7 @@ fields:
   default: post
 pages:
 - exampleSite/content/building-scalable-information-security-team.md
+- exampleSite/content/continuous-learning-and-upskilling-for-security-teams.md
 - exampleSite/content/hiring-for-security-teams.md
 - exampleSite/content/learning-for-security-teams.md
 - exampleSite/content/the-almost-impossible-challenge-of-training-security-teams.md
