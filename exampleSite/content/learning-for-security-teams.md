@@ -3,7 +3,6 @@ author = "AMol NAik"
 categories = ["On Training"]
 date = 2020-02-09T18:30:00Z
 description = "Thoughts on learning plans for security teams"
-draft = true
 image = "/images/Screenshot 2020-02-10 at 10.33.20 AM.png"
 title = "Learning for Security Teams"
 type = "post"
