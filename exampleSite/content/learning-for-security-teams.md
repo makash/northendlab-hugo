@@ -10,18 +10,19 @@ type = "post"
 +++
 Learning is an important aspect of life. This is more crucial for technical teams as tech is ever changing and teams need to keep learning to catch the pace of technological changes. Also learning soft skills is the key to becoming a leader.
 
-  
 My thoughts on this topic are based on the following quote:
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn
 >
-> * Benjamin Franklin
+> Benjamin Franklin
 
 As per the [learning standards](https://sharpheels.com/2016/06/3-es-for-career-development/ "Learning"), following 3E’s (10-20-70) plays an important role in career development:
 
 * Education
 * Exposure
 * Experience
+
+![](/images/Screenshot 2020-02-10 at 10.33.20 AM.png)
 
 # Education (Training)
 
@@ -41,13 +42,15 @@ By far, this is the main contributor in learning with 70% stake. Experience come
 
 As we set some bases for the learning theory, how is this applicable to security teams?
 
-###   
-Career Goals
+### 
+
+### Career Goals
 
 You need to identify your career goal which will help you build a learning plan. Information security is a collection of multiple domains & many job streams. You can choose to be a pentester, malware researcher, exploit writer, GCR officer, etc. Every opportunity has different requirements & requires different skill sets.
 
-###   
-3E’s Example
+### 
+
+### 3E’s Example
 
 Once you know what you want to become or what your career goal is, laying down the learning plan is very simple. Few years ago, I wrote a blogpost which explains the path to become a web application pentester and can be found [here](http://garage4hackers.com/showthread.php?t=1788 "Road to Web Application Security").
 
@@ -75,12 +78,10 @@ Learning differs as per the job you intended to do. For a pentester, it is impor
 
 On the other hand, when you are a product security engineer, you need to learn how to detect this attack before production release, be it in code or during testing. You also need to work on mitigations which is enough to restrict this attack. Next comes the detection with application logs when someone finds & exploits it. So your learning plan will be focused more on these points.
 
-###   
-So what do you think?
+# So what do you think?
 
 There are so many things to learn within a lifespan. Plan your career goal, have a daily routine & learn what is needed.
 
-  
 **Remember:**
 
 > Experiments enhance Experience. Failing is a new learning.
