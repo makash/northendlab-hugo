@@ -1,4 +1,4 @@
-baseURL = "https://securitypost.in/"
+baseURL = "/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
