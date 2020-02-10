@@ -1,9 +1,9 @@
 <article class="mb-5">
   <h2 class="h4"><a class="post-title" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
   <div class="mb-3 post-meta">
-    <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a>,
-    {{ .PublishDate.Format "January 2, 2006" }}, <button type="button" class="btn btn-info">{{ range .Params.Categories }}</button>
-    <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+    <button type="button" class="btn btn-dark"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a></button>,
+    {{ .PublishDate.Format "January 2, 2006" }}, {{ range .Params.Categories }}
+    <button type="button" class="btn btn-info"></button><a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a></button>
     {{ end }}
   </div>
   <p>{{.Summary}}</p>
