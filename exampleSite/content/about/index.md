@@ -20,7 +20,7 @@ Initially our plan is to publish about once a month.
 Some of the topics we are planning to cover in the coming months are basically around the biggest challenge we have. Capacity and capability building of security professionals when the world of technology moves so quickly
 
 * Hiring for security teams - [Security Post On Hiring](https://securitypost.in/categories/on-hiring/)
-* Continuous Learning and Up-skilling for security teams
+* Continuous Learning and Up-skilling for security teams - [Security Post On Training](https://securitypost.in/categories/on-training/ "Security Post On Training")
 * How to offer Security as a Product when all we have are pentesters
 
 ## Why should you read our posts
