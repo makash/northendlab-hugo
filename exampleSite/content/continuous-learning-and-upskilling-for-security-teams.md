@@ -15,7 +15,7 @@ A leader creates more leaders and this does not happen overnight. In today’s w
 
 This is essential for all teams belonging to businesses that offer anything but security. Teams must have the basic understanding of the business they operate in and how it interacts with its customers. In this process you are bound to come across all layers, from network to application. This is also helpful in a complex network of APIs consuming and sharing data from various sources.
 
-Knowing the business helps you connect the dots; see for yourself and better communicate the risks that your technical expertise will bring along. Otherwise even critical issues such as code executions, injections, etc may get drowned in the noise of functional priorities that fast growing companies tend to have.
+Knowing the business helps you connect the dots; see for yourself and better communicate the risks that your technical expertise will bring along. Otherwise, even critical issues such as code executions, injections, etc may get drowned in the noise of functional priorities that fast growing companies & client teams, tend to have.
 
 **Role Specific Learning**
 
