@@ -9,7 +9,7 @@
           <button type="button" class="btn btn-dark btn-sm"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a></button>,
           {{ .PublishDate.Format "January 2, 2006" }}, {{ range .Params.Categories }}
           <button type="button" class="btn btn-info btn-sm"><a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a></button>
-          {{ end }} <span style="color:darkgrey; font-face:verdana">{{ .ReadingTime }} min Read</span>
+          {{ end }} <span style="color:darkgrey; font-family:verdana">{{ .ReadingTime }} min Read</span>
 
         </div>
         {{ if .Params.Image }}
