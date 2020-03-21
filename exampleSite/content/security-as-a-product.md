@@ -1,5 +1,5 @@
 +++
-author = "br3akp0int"
+author = "Neelu Tripathy"
 categories = ["Product, Security, Services, Information  Security"]
 date = 2020-03-20T18:30:00Z
 description = "Can Security Services be offered as a Product?"
