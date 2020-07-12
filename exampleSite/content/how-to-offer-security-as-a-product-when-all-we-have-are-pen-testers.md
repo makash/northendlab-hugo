@@ -1,8 +1,8 @@
 +++
 author = "Akash Mahajan"
-categories = [""]
+categories = ["On Product Mindset"]
 date = 2020-07-11T18:30:00Z
-description = ""
+description = "The way software is done has evolved. Security teams need to evolve to. "
 draft = true
 image = ""
 title = "How to offer Security as a product? When all we have are pen-testers."
