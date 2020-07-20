@@ -1,6 +1,6 @@
 +++
 author = "Neelu Tripathy"
-categories = ["Product, Security, Services, Information  Security"]
+categories = ["On Product Mindset"]
 date = 2020-03-20T18:30:00Z
 description = "Can Security Services be offered as a Product?"
 image = ""
