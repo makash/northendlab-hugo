@@ -48,4 +48,4 @@ The world of technology is changing, very fast. Whether it be security services 
 
 Appendix:
 
-![](/images/key_drivers.png)
+![](/images/key_drivers.png "Key Drivers for Security As A Product")
