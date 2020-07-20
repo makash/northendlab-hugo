@@ -48,4 +48,4 @@ The world of technology is changing, very fast. Whether it be security services 
 
 Appendix:
 
-![](/images/Screenshot 2020-03-21 at 1.02.15 PM.png)
+![](/images/key_drivers.png)
